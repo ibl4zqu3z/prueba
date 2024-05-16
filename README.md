@@ -22,7 +22,7 @@ esto es una lista
 Lista numerada
 
 1. ele 1
-2. ele 2asdlasdñlasdñlsad
+2. ele 2ffffffffffffffffffffffffffffffffffff
 3. ele 3
 
 **esto en negrita**
