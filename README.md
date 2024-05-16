@@ -2,12 +2,11 @@
 
 - [prueba](#prueba)
   - [Titulo 2](#titulo-2)
-  - [Titulo 2](#titulo-2-1)
+  - [Titulo 22](#titulo-22)
     - [Titulo 2.1](#titulo-21)
   - [Titulo 3](#titulo-3)
     - [Titulo 3.1](#titulo-31)
       - [Titulo 3.1.1](#titulo-311)
-
 
 ## Titulo 2
 
@@ -28,8 +27,6 @@ Lista numerada
 **esto en negrita**
 *esto en cursiva*
 
-<div class="page"/>
-
 Tabla
 
 Pelicula   | Puntuacion
@@ -39,7 +36,7 @@ Jedi       | 4
 
 ![FOTO](image.png)
 
-## Titulo 2
+## Titulo 22
 
 ### Titulo 2.1
 
