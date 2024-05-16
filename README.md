@@ -25,3 +25,5 @@ Pelicula   | Puntuacion
 -----------|-----------
 Pocahontas | 2
 Jedi       | 4
+
+![FOTO](image.png)
