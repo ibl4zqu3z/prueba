@@ -1,5 +1,14 @@
 # prueba
 
+- [prueba](#prueba)
+  - [Titulo 2](#titulo-2)
+  - [Titulo 2](#titulo-2-1)
+    - [Titulo 2.1](#titulo-21)
+  - [Titulo 3](#titulo-3)
+    - [Titulo 3.1](#titulo-31)
+      - [Titulo 3.1.1](#titulo-311)
+
+
 ## Titulo 2
 
 Esto es una prueba
@@ -13,11 +22,13 @@ esto es una lista
 Lista numerada
 
 1. ele 1
-2. ele 2
+2. ele 2asdlasdñlasdñlsad
 3. ele 3
 
 **esto en negrita**
 *esto en cursiva*
+
+<div class="page"/>
 
 Tabla
 
@@ -27,3 +38,13 @@ Pocahontas | 2
 Jedi       | 4
 
 ![FOTO](image.png)
+
+## Titulo 2
+
+### Titulo 2.1
+
+## Titulo 3
+
+### Titulo 3.1
+
+#### Titulo 3.1.1
